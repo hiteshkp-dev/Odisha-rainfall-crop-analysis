@@ -1,0 +1,15 @@
+Fellowship analysis summary
+
+Q1 Rainfall plot saved: C:\Users\padhi\Project_Samarth_Data\RainfallApp\fellowship_outputs\q1_rainfall_compare.png
+Top 3 crops Odisha: {'2014': 7151852580.9, '2012': 7088850046.6, '2013': 5852213790.4}
+Top 3 crops Odisha: {'2014': 7151852580.9, '2012': 7088850046.6, '2013': 5852213790.4}
+Q3 correlation: nan
+Policy arguments:
+1) 2010 shows lower production-rainfall dependency (corr -0.00) vs 2011 (corr -0.00) — implies safer under rainfall variability.
+2) 2011 has historically more stable production (stability metric nan < nan).
+3) 2011 associates with lower rainfall than 2010.
+
+Policy arguments:
+- 1) 2010 shows lower production-rainfall dependency (corr -0.00) vs 2011 (corr -0.00) — implies safer under rainfall variability.
+- 2) 2011 has historically more stable production (stability metric nan < nan).
+- 3) 2011 associates with lower rainfall than 2010.
