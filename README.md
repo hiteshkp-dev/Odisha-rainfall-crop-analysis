@@ -18,10 +18,23 @@ This Streamlit app analyzes rainfall and crop production data for Odisha to unco
 - Pandas, Matplotlib, Seaborn
 - Streamlit (for the dashboard)
 - CSV datasets (Odisha rainfall + crop data)
+  
 
 ## 🚀 How to Run
 ```bash
 pip install -r requirements.txt
 streamlit run app/app.py
 
+### 📊 Data Sources
+- Rainfall data (IMD Grid Model)
+- Crop production data (Odisha Agriculture Dept)
+### 🛠️ Tech Stack
+- Streamlit
+- Pandas
+- Plotly
+- Matplotlib
+- Seaborn
 
+### 🌐 Live App
+👉 [View on Streamlit](https://odisha-rainfall-crop-analysis.streamlit.app)
+Thank You 
